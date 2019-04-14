@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Storyless Cookbook
 
 You can use the [editor on GitHub](https://github.com/Alynder/aint_nobody_got_time_for_that/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
