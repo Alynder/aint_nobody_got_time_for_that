@@ -26,7 +26,7 @@
 + cayenne and lemon/lime to taste
 + pepper flakes for garnish
 
-* Instructions * 
+#### Instructions  
 + Soak the lentils if you havent already and get the ingredients ready, Switch the IP to saute. Add oil and let it get hot.
 + Add onion, garlic, ginger, chile and a pinch of salt. Cook for 2 to 3 minutes, stir frequently.
 + Add spices and mix in. Add tomatoes and cook for 4 to 5 minutes. Mash larger pieces.
